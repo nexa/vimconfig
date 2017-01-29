@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/root/dev/course/imooc_shop/3_frontpage_index'
+let g:netrw_dirhist_2='/root/dev/course/imooc_shop/30_category'
+let g:netrw_dirhist_3='/root/dev/course/imooc_shop/30'
+let g:netrw_dirhist_4='/usr/local/nginx/conf/vhost'
+let g:netrw_dirhist_5='/root/dev/course/imooc_shop/37_cart_sql'
